@@ -5,7 +5,6 @@ Java Programming Step-by-Step - book source code
 
 This repository contains the source code for the book, and is comprised of the two NetBeans projects called Utilities and VirtualZoo. The VirtualZoo application makes use of both the Utilities project and the Java Look and Feel Graphic Repository for its toolbar and menubar icons. For licensing reasons you will need to separately download the graphics repository. The steps below will guide you in the process of setting up the source files:
 
-
 1. Extract the contents of this ZIP file to a convenient location on your system.
 
 2. Launch NetBeans (requires at least version 7) and select File | Open Project...
